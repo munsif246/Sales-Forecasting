@@ -1,1 +1,1 @@
-# Weekly-Sales-Forecasting
+# Weekly Sales Forecasting
