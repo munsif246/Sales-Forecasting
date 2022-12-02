@@ -1,2 +1,2 @@
 # Weekly Sales Forecasting
-Forecasting total weekly sales using the LSTM
+Forecasting total weekly sales using LSTM
